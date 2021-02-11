@@ -1,0 +1,6 @@
+http://localhost:3000/compose
+
+after create some posts
+example day 1
+
+http://localhost:3000/posts/day 1
